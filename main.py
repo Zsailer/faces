@@ -1,12 +1,12 @@
 
 
 def hello_world():
-    print("hello, world")
+    print("hello, tim!!!!!")
 
     for i in range(4):
         print("testing")
-
-        x = 2 + 2
+	y = 2
+        x = 2 + y
 
         print("x")
 
