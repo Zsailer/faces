@@ -1,15 +1,9 @@
 
 
 def hello_world():
-    print("hello, world")
 
-    for i in range(4):
-        print("testing")
+    x = 2 + 2
 
-        x = 2 + 2
+    print("This is broken, ha ha ha (evil laugh)")
 
-        print("x")
 
-        print(x+4)
-
-        
