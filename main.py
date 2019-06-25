@@ -12,4 +12,6 @@ def hello_world():
 
         print(x+4)
 
+        print("i do not know python, why am i in this document")
+
         
